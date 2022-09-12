@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rehan</h1>
+<div flex>
+<div><h1 align="center">Hi 👋, I'm Rehan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<h3 align="center"> - 📫 https://rehanrazaq.live/ </h3>
-<a href="https://app.daily.dev/Rehan509"><img src="https://api.daily.dev/devcards/edc18f1c75e440ba9ce0502a1de64b81.png?r=xoz" width="400" alt="Rehan's Dev Card"/></a>
-
+<h3 align="center"> - 📫 https://rehanrazaq.live/ </h3></div>
+<div><a href="https://app.daily.dev/Rehan509"><img src="https://api.daily.dev/devcards/edc18f1c75e440ba9ce0502a1de64b81.png?r=xoz" width="400" alt="Rehan's Dev Card"/></a></div>
+</di>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan509&label=Profile%20views&color=0e75b6&style=flat" alt="rehan509" /> </p>
 
