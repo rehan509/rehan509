@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan509&label=Profile%20views&color=0e75b6&style=flat" alt="rehan509" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehan509" alt="rehan509" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehan509" alt="rehan509" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@rehanrazaqch509" target="blank"><img src="https://img.shields.io/twitter/follow/@rehanrazaqch509?logo=twitter&style=for-the-badge" alt="@rehanrazaqch509" /></a> </p>
 
